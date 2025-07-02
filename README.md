@@ -66,7 +66,7 @@ Here are some screenshots of our application interface.
 ### 📉 Diabetes Model Metrics
 
 #### Confusion Matrix
-![Diabetes Confusion Matrix](Outcomes/DiabetesConfusionmatrix.png)
+![Diabetes Confusion Matrix](Outcomes/diabetesConfusionMatrix.png)
 
 #### Classification Report
 ![Diabetes Classification Report](Outcomes/DiabetesClassificaitonReport.png)
